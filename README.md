@@ -4,7 +4,8 @@
 -------------
 ![Profile Views](https://komarev.com/ghpvc/?username=Salieri20&color=blue)
 
-I’m an Electronics Engineer turned DevOps enthusiast 🚀. I love building scalable cloud architectures, automating workflows, and exploring the endless possibilities of DevOps and cloud technologies.  
+I'm from Egypt 🇪🇬 🌍. I’m passionate about DevOps, Kubernetes, cloud automation, and building scalable infrastructure 💻. When I’m not automating workflows or deploying applications, you can find me playing football ⚽, chess ♟️, tennis 🎾, and spending time with friends and family ❤️.
+ 
 ## 🔭 I’m currently working on. 
 deploying multi-tier web apps on AWS with Terraform, Kubernetes, and CI/CD pipelines.  
 ---------------------------------------------
