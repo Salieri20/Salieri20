@@ -8,13 +8,13 @@ I'm from Egypt 🇪🇬 🌍. I’m passionate about DevOps, Kubernetes, cloud a
  
 ## 🔭 I’m currently working on. 
 <p>
-  <img src="https://github.com/Salieri20/Salieri20/raw/main/dev-ops-solid-svgrepo-com.svg" width="60" />
-  <img src="https://github.com/Salieri20/Salieri20/raw/main/kubernetes-svgrepo-com.svg" width="60" />
-  <img src="https://github.com/Salieri20/Salieri20/raw/main/jenkins-svgrepo-com.svg" width="60" />
+  <img src="https://github.com/Salieri20/Salieri20/raw/main/dev-ops-solid-svgrepo-com.svg" width="200" />
+  <img src="https://github.com/Salieri20/Salieri20/raw/main/kubernetes-svgrepo-com.svg" width="200" />
+  <img src="https://github.com/Salieri20/Salieri20/raw/main/jenkins-svgrepo-com.svg" width="200" />
 </p>
 <p>
-  <img src="https://github.com/Salieri20/Salieri20/raw/main/terraform-svgrepo-com.svg" width="60" />
-  <img src="https://github.com/Salieri20/Salieri20/raw/main/aws-svgrepo-com.svg" width="60" />
+  <img src="https://github.com/Salieri20/Salieri20/raw/main/terraform-svgrepo-com.svg" width="200" />
+  <img src="https://github.com/Salieri20/Salieri20/raw/main/aws-svgrepo-com.svg" width="200" />
 </p>
 
 ## 🌱 I’m currently learning 
