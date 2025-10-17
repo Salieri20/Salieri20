@@ -31,7 +31,9 @@ I'm from Egypt 🇪🇬 🌍. I’m passionate about DevOps, Kubernetes, cloud a
 ![Spanish](https://github.com/bobbyg603/bobbyg603/raw/main/assets/spanish-flag-round.svg)
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/mahmoud-nasser-32345424a) 
+<a href="https://www.linkedin.com/in/mahmoud-nasser-32345424a">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="80" />
+</a>
 
 
 
